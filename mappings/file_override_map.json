@@ -1,0 +1,1 @@
+{ "**/components/**/*.tsx": ["frontend"], "**/pages/api/**/*.ts": ["api"] }

@@ -1,0 +1,25 @@
+{
+  "name": "cursor-contracts",
+  "version": "1.0.0",
+  "description": "Universal behavior contract and override system for Cursor AI",
+  "main": "scripts/cursor-init.js",
+  "bin": {
+    "cursor-init": "./scripts/cursor-init.js"
+  },
+  "scripts": {
+    "init": "node scripts/cursor-init.js",
+    "badge": "node scripts/cursor-badge.js"
+  },
+  "keywords": [
+    "cursor",
+    "ai",
+    "contract",
+    "override",
+    "devtools"
+  ],
+  "author": "UIU",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.6"
+  }
+}
