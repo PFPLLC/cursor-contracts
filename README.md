@@ -1,3 +1,8 @@
+![Cursor Compliant](https://img.shields.io/badge/Cursor_Compliant-frontend,api,ci_cd-brightgreen)
+
+# Cursor Contracts
+High-performance behavioral contract system for Cursor AI projects with modular override support and compliance automation.
+
 # 🧠 Cursor Contract System
 
 This repository defines a universal, high-performance behavioral contract for Cursor AI.  
